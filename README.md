@@ -1,0 +1,2 @@
+# Wide-Area-Network-WAN-Design-Simulation-using-Cisco-Packet-Tracer
+A simulated Wide Area Network (WAN) model connecting multiple branch offices with a central headquarters, designed and tested in Cisco Packet Tracer. The project integrates Dynamic Routing (RIP), Access Control Lists (ACLs), and essential network services such as DNS, DHCP, FTP, and Email for secure and scalable inter-office communication.
